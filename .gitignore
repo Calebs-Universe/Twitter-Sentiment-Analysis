@@ -9,4 +9,4 @@ __pycache__
 *.log
 *.csv
 *.tsv
-*.json
+*.jsonrm 
